@@ -4,4 +4,4 @@ Basic Starter block with exit code
 
 ## Output
 
-![alt text](https://github.com/Izroth404/TCP_IP/blob/2 way communication base template/Screenshot at 2022-04-26 14-36-43.png?raw=true)
+![alt text](https://github.com/Izroth404/TCP_IP/blob/main/2%20way%20communication%20base%20template/Screenshot%20at%202022-04-26%2014-36-43.png)
